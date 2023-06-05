@@ -6,7 +6,8 @@ This project allows users to vote on a variety of topics. It is built using Ecli
 Features
 
 Users can vote on polls.
-Results of polls are displayed to users.
+Results of polls are displayed to Admins.
+Admins can add or delete Party or Candidate.
 
 
 Getting Started
@@ -14,7 +15,7 @@ To get started with this project, you will need to have the following installed:
 
 Eclipse
 Java 1.8
-MySQL
+MySQL Workbench
 Tomcat 9 server
 Once you have installed the necessary software, you can clone the project from GitHub:
 

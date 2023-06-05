@@ -77,6 +77,6 @@ Step 1) switch Eclipse.
 
 Step 2) Right-click on the project and select “Run As” then “Run on server”.
 
-Step 3) Select “Tomcat 8.5” from the localhost.
+Step 3) Select “Tomcat 9" from the localhost.
 
 Step 4) Click next and finish.

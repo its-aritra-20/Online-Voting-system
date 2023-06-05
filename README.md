@@ -1,7 +1,7 @@
 # Online-Voting-system
 
 
-This project is an online voting system that allows users to vote on a variety of topics. It is built using Eclipse, JavaScript, CSS, Bootstrap, MySQL and Tomcat 9 server, Java 1.8.
+This project allows users to vote on a variety of topics. It is built using Eclipse, JavaScript, CSS, Bootstrap, MySQL and Tomcat 9 server, Java 1.8.
 
 Features
 
